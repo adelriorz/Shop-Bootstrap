@@ -41,7 +41,7 @@
     border-radius: 60px;
 }
 .main{
-    background: url(/img/lunchcopy.jpg);
+    background: url('/img/lunchcopy.jpg');
     background-size: cover;
     height: 100vh;
     background-position: 50% 50%;
